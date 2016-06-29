@@ -8,7 +8,7 @@ Nativescript plugin for a slick liquid loading animation.
 
 ## Sample
 
-![Demo](./screens/demo.gif)
+![Demo](./screens/liquid.gif)
 
 #### Native Library
 [LiquidButton](https://github.com/yoruriko/LiquidButton)
