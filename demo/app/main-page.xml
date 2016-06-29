@@ -1,0 +1,10 @@
+<Page 
+  xmlns="http://schemas.nativescript.org/tns.xsd" 
+  xmlns:LiquidLoader="nativescript-liquid-loader" 
+  loaded="pageLoaded">
+  <ActionBar title="Liquid Loader" />
+  <StackLayout>
+    <LiquidLoader:LiquidLoader id="liquidLoader" height="400" pourFinish="{{ pourFinished }}" />
+    <Button text="Start Animation" tap="{{ startThePour }}" />
+  </StackLayout>
+</Page>

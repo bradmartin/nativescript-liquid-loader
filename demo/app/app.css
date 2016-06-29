@@ -1,0 +1,16 @@
+﻿.message {
+  color: #000;
+  font-size: 20;
+  horizontal-align: center;
+  padding:20;
+}
+
+ActionBar {
+  background-color: #00796B; 
+  color: #fff;
+}
+
+Button {
+  background-color: #3489db;
+  color: #fff;
+}
