@@ -8,7 +8,7 @@ Nativescript plugin for a slick liquid loading animation.
 
 ## IMPORTANT
 To use this plugin you need to modify the *AndroidManifest.xml* located in `App_Resources/Android`.
-You need the **tools** `xmlns:tools="http://schemas.android.com/tools"` to the top of the file in the `<manifest>` tag.
+You need the **tools** namespace, `xmlns:tools="http://schemas.android.com/tools"`, added to the top of the file in the `<manifest>` tag.
 
  You also need to add `tools:overrideLibrary="com.gospelware.liquidbutton"` to the `<uses-sdk>` tag.
 
